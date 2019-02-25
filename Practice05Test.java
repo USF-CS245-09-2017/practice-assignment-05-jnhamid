@@ -133,7 +133,7 @@ public class Practice05Test {
 	
 	/**
 	 * Prints the array size and whether sorted or not.
-	 * @param The array to be considered.
+	 * @param //The array to be considered.
 	 */
 	public void printStatus(int [] arr) {
 		System.out.print(arr.length + "\t");
